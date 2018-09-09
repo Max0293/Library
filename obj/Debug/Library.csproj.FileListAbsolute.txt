@@ -1,0 +1,9 @@
+C:\Users\sever\Source\Workspaces\M3\Learning\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\sever\Source\Workspaces\M3\Learning\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Library\bin\Debug\Library.exe.config
+D:\Library\bin\Debug\Library.exe
+D:\Library\bin\Debug\Library.pdb
+D:\Library\obj\Debug\Library.exe
+D:\Library\obj\Debug\Library.pdb
+D:\Library\obj\Debug\Library.csprojAssemblyReference.cache
